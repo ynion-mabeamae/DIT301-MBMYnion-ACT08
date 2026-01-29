@@ -28,4 +28,10 @@ The app utilizes the **Google Play Services Fused Location Provider API**.
 ## Screenshots
 | Map View | Location Tracking |
 | :---: | :---: |
-| ![Main Screen](screenshots/map_location.png) | ![Tracking Active](screenshots/location_update.png) |
+| ![Main Screen](screenshot/map_location.png) | ![Tracking Active](screenshot/location_update.png) |
+
+## Additional Screenshot
+
+| Permission Request |
+| :---: |
+| ![Permission Request](screenshot/permission_request.png) |
